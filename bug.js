@@ -1,0 +1,1 @@
+This error occurs when you try to access a state variable or a prop before it has been set.  It's particularly common in asynchronous operations where the data might not be available immediately. For instance, fetching data from an API or performing a navigation action.
